@@ -5,6 +5,10 @@ AWS Cloud Infrastructure — VPC, EC2 & Linux Administration
 
 Project Overview
 
+## Architecture Diagram
+
+![AWS Infrastructure Architecture](aws-architecture.png)
+
 Designed and deployed a basic cloud infrastructure environment on Amazon Web Services (AWS). The project involved creating a custom Virtual Private Cloud (VPC), configuring public networking, deploying an Ubuntu Linux EC2 instance, and establishing secure remote access through SSH.
 
 The objective was to understand how AWS networking components work together to provide internet connectivity and secure access to cloud-hosted compute resources.
